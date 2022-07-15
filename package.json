@@ -1,0 +1,22 @@
+{
+  "name": "sdm",
+  "version": "1.0.0",
+  "description": "SDM learning perspectival",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/SuhasKajawe/SDM.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuhasKajawe/SDM.git"
+  },
+  "author": "suhas kajawe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuhasKajawe/SDM/issues"
+  },
+  "homepage": "https://github.com/SuhasKajawe/SDM#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
